@@ -9,4 +9,4 @@ The video is about technology.
 it discusses how technology affects humanity and how it help us with work and jobs
 it showed how it helped in medicine by making medical devices for blood presure temparature etc
 it help in agriculture because it reduced the stress of hand picking and sorting
-it also helps in public safefty, good hackers can stop or help people getting scammed and dave them of losing money.
+it also helps in public safefty, good hackers can stop or help people getting scammed and save them of losing money.
