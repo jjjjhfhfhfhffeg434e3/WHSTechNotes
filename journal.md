@@ -10,3 +10,10 @@ it discusses how technology affects humanity and how it help us with work and jo
 it showed how it helped in medicine by making medical devices for blood presure temparature etc.
 it help in agriculture because it reduced the stress of hand picking and sorting.
 it also helps in public safefty, good hackers can stop or help people getting scammed and save them of losing money.
+# September 15, 2025
+Ai can be used in schools in many helpful ways, from transformation to learning.
+for example , self-driving buses could safely take students to school while Ai programs find the best routes
+In the classroom, Ai tutors can personalize lessons for each student and help teachers with grades
+and help make and give correction to assignments
+Ai could also help detect anmd stop bullying.
+# September 22, 2025
