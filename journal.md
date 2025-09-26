@@ -17,3 +17,6 @@ In the classroom, Ai tutors can personalize lessons for each student and help te
 and help make and give correction to assignments
 Ai could also help detect anmd stop bullying.
 # September 22, 2025
+The virtual IKEA store in roblox is a place where player can buy accessories , items etc using in game currency
+It is designed as a real stoire with signs and displays making shopping feel realistic 
+These stores also offer clothing, pets,tools or special gear with in game currency
