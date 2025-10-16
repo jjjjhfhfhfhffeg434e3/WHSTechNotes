@@ -20,3 +20,18 @@ Ai could also help detect anmd stop bullying.
 The virtual IKEA store in roblox is a place where player can buy accessories , items etc using in game currency
 It is designed as a real stoire with signs and displays making shopping feel realistic 
 These stores also offer clothing, pets,tools or special gear with in game currency
+# Sptember 30, 2025
+The "67" meme, pronounced "six-seven," became a viral joke, especially on TikTok.
+It started from a rap song called "Doot Doot (6 7)" by Skrilla. 
+The repeating number was then linked to NBA player LaMelo Ball, who is 6 feet 7 inches tall.
+People made many video edits of him using the song.
+# October 6, 2025
+At school, students can only play games that help them learn.
+This rule helps everyone stay focused on their schoolwork.
+We want to make sure that the computers and other devices are used for learning, not for things that cause a distraction. 
+By letting students play games that teach things like math or problem-solving, 
+# October 14, 2025
+My promt was a soccer themed or related quiz,
+which feutured 12 question getting harder as it goes on.
+Canva interpreted it will, they followed my selected color scheme etc
+I could improve my promt is the future by adding more detail and color
