@@ -35,3 +35,10 @@ My promt was a soccer themed or related quiz,
 which feutured 12 question getting harder as it goes on.
 Canva interpreted it will, they followed my selected color scheme etc
 I could improve my promt is the future by adding more detail and color
+# October 17, 2025
+# October 20, 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin |Second       |  91A    |
+| Hardeep  |Third       | 61F     |
+| Marla    |First      | 35B     |
