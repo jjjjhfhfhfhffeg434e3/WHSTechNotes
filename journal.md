@@ -48,3 +48,8 @@ I could improve my promt is the future by adding more detail and color
 | Fiona    | Gado Gado          |  Creme Brulee       |
 | Tobias   |  Shrimp Ceviche	         |  French Apple Cake
 | Leanne   |      Beef Wellington	     |    Raspberry Tiramisu     |
+# November 3, 2025
+If SNAP money runs out, poor families cannot buy food, leading to hunger for many people, including kids and the elderly.
+A simple phone app could show a map of open food banks and soup kitchens in your area.
+Not everyone has a smartphone or good internet, and some people might worry about their private information being collected.
+A basic text message service could send an alert to people with simple phones about where to get free food.
