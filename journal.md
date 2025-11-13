@@ -53,3 +53,8 @@ If SNAP money runs out, poor families cannot buy food, leading to hunger for man
 A simple phone app could show a map of open food banks and soup kitchens in your area.
 Not everyone has a smartphone or good internet, and some people might worry about their private information being collected.
 A basic text message service could send an alert to people with simple phones about where to get free food.
+# November 10, 2025
+This semester, I learned how to gather and share information well. 
+I am proud of learning to plan my time and use helpful tools to finish my work on time. 
+A key moment for me was solving a hard problem that I thought I couldn't solve, which taught me not to give up.
+Next year, I will use these skills to work on bigger projects and manage my time even better.
