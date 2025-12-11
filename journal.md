@@ -63,7 +63,7 @@ Yes, im looking frward to thanksgiving.
 # December 1st, 2025
 One real job that utilizes drone technology is a Drone Software Development Engineer or programmer. 
 These professionals design and maintain the complex systems that allow drones to operate safely and perform intricate tasks.
-You coul;d learn to program and build drones to do what every you need them, to do.
+You could learn to program and build drones to do what every you need them, to do.
 # December 8th, 2025
 Self-driving cars struggle with school buses due to complex visuals that confuse AI's perception,
 challenging sensors to differentiate them from general traffic, especially in varied weather or lighting,
