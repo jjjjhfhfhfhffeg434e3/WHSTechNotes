@@ -58,5 +58,14 @@ This semester, I learned how to gather and share information well.
 I am proud of learning to plan my time and use helpful tools to finish my work on time. 
 A key moment for me was solving a hard problem that I thought I couldn't solve, which taught me not to give up.
 Next year, I will use these skills to work on bigger projects and manage my time even better.
-# November, 2025
+# November, 17, 2025
 Yes, im looking frward to thanksgiving.
+# December 1st, 2025
+One real job that utilizes drone technology is a Drone Software Development Engineer or programmer. 
+These professionals design and maintain the complex systems that allow drones to operate safely and perform intricate tasks.
+You coul;d learn to program and build drones to do what every you need them, to do.
+# December 8th, 2025
+Self-driving cars struggle with school buses due to complex visuals that confuse AI's perception,
+challenging sensors to differentiate them from general traffic, especially in varied weather or lighting,
+but a key fix involves integrating dedicated school bus detection hardware.
+Hardware that will make the self driving car immediatly stop when detected a school bus.
