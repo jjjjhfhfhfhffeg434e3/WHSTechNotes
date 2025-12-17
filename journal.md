@@ -69,3 +69,5 @@ Self-driving cars struggle with school buses due to complex visuals that confuse
 challenging sensors to differentiate them from general traffic, especially in varied weather or lighting,
 but a key fix involves integrating dedicated school bus detection hardware.
 Hardware that will make the self driving car immediatly stop when detected a school bus.
+# December 15yh, 2025
+I plan to spend my winter break resting mostly while also trying to not forget to much of what ive learned.
