@@ -73,3 +73,8 @@ Hardware that will make the self driving car immediatly stop when detected a sch
 I plan to spend my winter break resting mostly while also trying to not forget to much of what ive learned.
 # January 6th, 2026
 Over the winter break if used my pc to play games, watch videos,and edit videos.
+# January 12th, 2026
+The Aurcraft was created by and autistic father and webv developer,
+to provide a shave space for other autistic kids in minecraft,
+away from the bullying, discrimination and harassment.
+This idea helped protect autistic kids
