@@ -84,3 +84,5 @@ In the past, high-quality information was often locked behind expensive schools 
 Now, a student in a remote village can access the same world-class lessons as someone in a major city using just a smartphone. 
 This matters because it levels the playing field, giving everyone a chance to succeed based on their talent,
 and hard work rather than where they were born or how much money they have.
+# January 29th, 2026
+This week i took the MAP test, and it went well i got good scores and with more review or preparation i could have goten higher.
