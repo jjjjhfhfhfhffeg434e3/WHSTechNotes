@@ -86,3 +86,10 @@ This matters because it levels the playing field, giving everyone a chance to su
 and hard work rather than where they were born or how much money they have.
 # January 29th, 2026
 This week i took the MAP test, and it went well i got good scores and with more review or preparation i could have goten higher.
+# Febuary 2nd, 26
+Personal hygiene is a fundamental sign of respect that maintains both the health and comfort of a community.
+Loud talking and strong smells make it very hard for other people to focus.
+When a room is too noisy or smells bad, it can give people headaches or make them feel stressed.
+Professional behavior means being mindful of how you act. This includes using a quiet voice, keeping your hands and items in your own space, and using polite words.
+Self-control is a great skill for school and jobs because it proves you are mature. If you can control your voice and your temper, people will trust you and want to work with you
+A habbit we can improve on is controlng or reducing the noise or how dirty the environment is.
