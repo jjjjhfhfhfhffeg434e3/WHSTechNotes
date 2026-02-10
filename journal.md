@@ -93,3 +93,6 @@ When a room is too noisy or smells bad, it can give people headaches or make the
 Professional behavior means being mindful of how you act. This includes using a quiet voice, keeping your hands and items in your own space, and using polite words.
 Self-control is a great skill for school and jobs because it proves you are mature. If you can control your voice and your temper, people will trust you and want to work with you
 A habbit we can improve on is controlng or reducing the noise or how dirty the environment is.
+# Febuary 10th, 2026
+I dont enjoy football because its boring
+i didnt watch the superbowl
