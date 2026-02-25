@@ -96,3 +96,11 @@ A habbit we can improve on is controlng or reducing the noise or how dirty the e
 # Febuary 10th, 2026
 I dont enjoy football because its boring
 i didnt watch the superbowl
+# February 23, 2026
+I believe the high-speed timing system had the biggest impact on the 2026 winter Olimpics because they make it fair.
+
+In sprts like skiing an speed skating races were decided by tiny amounts of time.
+Sensors recored the exact moment the athlete crossed the finish line.
+
+This made results more accurate and reduced the posibility of human error or mistakes,
+so winners could be decided fairly.
