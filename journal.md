@@ -104,3 +104,5 @@ Sensors recored the exact moment the athlete crossed the finish line.
 
 This made results more accurate and reduced the posibility of human error or mistakes,
 so winners could be decided fairly.
+March 23, 2026
+I picked my brackets by guessing ,what uprised me was i was right on some of them, i could have used past data to predict who will win or lose,
