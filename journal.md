@@ -86,7 +86,7 @@ This matters because it levels the playing field, giving everyone a chance to su
 and hard work rather than where they were born or how much money they have.
 # January 29th, 2026
 This week i took the MAP test, and it went well i got good scores and with more review or preparation i could have goten higher.
-# Febuary 2nd, 26
+# Febuary 2nd, 2026
 Personal hygiene is a fundamental sign of respect that maintains both the health and comfort of a community.
 Loud talking and strong smells make it very hard for other people to focus.
 When a room is too noisy or smells bad, it can give people headaches or make them feel stressed.
@@ -104,5 +104,13 @@ Sensors recored the exact moment the athlete crossed the finish line.
 
 This made results more accurate and reduced the posibility of human error or mistakes,
 so winners could be decided fairly.
-March 23, 2026
+# March 23th, 2026
 I picked my brackets by guessing ,what uprised me was i was right on some of them, i could have used past data to predict who will win or lose,
+# March 30th, 2026
+Upsets happen because games aren’t just based on stats. In the NCAA Division I Men's Basketball Tournament, lower-seeded teams can win due to momentum or pressure on higher teams. Computers can’t fully predict things like confidence or injuries, so predictions can be wrong. A program would struggle with those factors. It could be improved by using real-time data and recent performance.
+# April 9th, 2026
+Humans could convince the AI using logic and data to show they are safe. I would argue that instead of being locked in, humans should be allowed controlled access outside with strict rules. The AI would understand evidence like tests and survival data proving humans can follow safety systems.
+
+The plan would be to start with small supervised trips outside the ship and collect results each time. This would show whether humans can behave safely in the environment. The AI is worried about human recklessness, so repeated safe outcomes would lower that risk. Over time, this would prove humans can be trusted and justify letting them leave.
+# April 13th, 2026
+Modern space technology is good enough for missions, but it still needs work for longer trips like Mars. In the Artemis II mission, the Orion capsule’s life support and communication systems helped keep astronauts alive and connected. These systems were important because they made sure the crew had oxygen and could communicate with Earth. However, there were issues with the toilet system and a communication blackout behind the Moon. These problems matter because they could be dangerous on longer missions. Engineers can learn from this to improve future space travel.
