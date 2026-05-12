@@ -118,3 +118,7 @@ Modern space technology is good enough for missions, but it still needs work for
 AI is changing how people experience and trust media, and it does matter if content is made by humans or AI because it affects authenticity. For example, AI songs can copy real artists’ voices and go viral, and deepfake videos can spread misinformation. This shows AI content can influence people just like human-made content, but it can also make it harder to tell what’s real. Because of that, there should be limits on AI use to prevent confusion and protect trust.
 # April 27th, 2026
 This week I was watching the NBA Playoffs, and technology really changed how I followed it. I think technology makes sports way easier to keep up with. For example, I didn’t watch every full game, but I saw highlights, scores, and clips on my phone. Social media also showed big moments right away, like dunks or game winners. This matters because I can still know what’s going on without sitting through the whole game. Overall, technology just makes it quicker and more fun to follow sports. (used ai)
+# May 7th, 2026
+
+# May 11th, 2026
+This school year, I grew in responsibility and time management. I became more organized and did my work earlier instead of waiting until the last minute. One example was finishing one of my biology projects earlier than the due date. Compared to the beginning of the year, I’m more mature and better at handling my responsibilities.
